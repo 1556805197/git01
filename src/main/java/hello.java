@@ -6,10 +6,10 @@ public class hello {
         System.out.println("hahaha2s");
         System.out.println("ha");
         System.out.println("hdas");
-        System.out.println("hahha2s"); //
+         //fsd
 
-        System.out.println("");
-        System.out.println("hahaa2s");
+        System.out.println("h");
+        System.out.println("haa2s");
         System.out.println("hahaha2s");
         //
         for (int i = 0; i < 10; i++) {
