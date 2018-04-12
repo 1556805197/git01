@@ -5,7 +5,7 @@ public class hello {
     public static void main(String[] args) {
         System.out.println("hahaha2s");
 
-        System.out.println("haha2s");
+        System.out.println("h");
         System.out.println("hahaha2s"); System.out.println("hahaha2s");
         //
 
