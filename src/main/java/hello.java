@@ -4,6 +4,9 @@
 public class hello {
     public static void main(String[] args) {
         System.out.println("hahaha2s");
+        System.out.println("ha");
+        System.out.println("hdas");
+        System.out.println("hahha2s"); //
 
         System.out.println("");
         System.out.println("hahaa2s");
